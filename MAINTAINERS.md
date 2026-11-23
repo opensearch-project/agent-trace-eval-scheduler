@@ -6,7 +6,6 @@ This document contains a list of maintainers in this repo. See [opensearch-proje
 
 | Maintainer            | GitHub ID                                                     | Affiliation |
 | --------------------- | ------------------------------------------------------------- | ----------- |
-| Ashish Agrawal        | [lezzago](https://github.com/lezzago)                         | Amazon      |
 | Kyle Hounslow         | [kylehounslow](https://github.com/kylehounslow)               | Amazon      |
 
 ## Emeritus
@@ -14,3 +13,4 @@ This document contains a list of maintainers in this repo. See [opensearch-proje
 | Maintainer   | GitHub ID                                |
 |--------------|-------------------------------------------|
 | Megha Goyal  | [goyamegh](https://github.com/goyamegh)   |
+| Ashish Agrawal | [lezzago](https://github.com/lezzago)    |
